@@ -1,0 +1,13 @@
+.container {
+	height: 50px;
+	width: 900px;
+	background-color: #7FFFD4;
+	padding: 20px;
+	text-align: center;
+	border: 2px solid #00CED1;
+
+}
+
+img {
+	width: 200px;
+}
